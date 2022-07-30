@@ -6,6 +6,6 @@ The colors.csv file includes 865 color names along with their RGB and hex values
 
 ### How To Run
 
-python color_detection.py -i <add your image path here>
+python color_detection.py -i add your image path here
 
 Example: python color_detection.py -i pic1.jpg
